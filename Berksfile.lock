@@ -1,0 +1,35 @@
+{
+  "sources": {
+    "winstall_ruby": {
+      "path": "."
+    },
+    "rvm": {
+      "locked_version": "0.9.3",
+      "git": "git://github.com/fnichol/chef-rvm.git",
+      "ref": "3d1c3dda01d5dee02a99d53783f2f11d5a0f195d"
+    },
+    "ruby_build": {
+      "locked_version": "0.8.0",
+      "git": "git://github.com/fnichol/chef-ruby_build.git",
+      "ref": "ed2d3841784ecf60c1de808946307b588efe644f"
+    },
+    "apt": {
+      "locked_version": "2.3.8"
+    },
+    "build-essential": {
+      "locked_version": "2.0.0"
+    },
+    "yum": {
+      "locked_version": "3.1.4"
+    },
+    "yum-epel": {
+      "locked_version": "0.3.4"
+    },
+    "chef_gem": {
+      "locked_version": "0.1.0"
+    },
+    "java": {
+      "locked_version": "1.20.0"
+    }
+  }
+}
