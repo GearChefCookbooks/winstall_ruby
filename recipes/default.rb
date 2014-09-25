@@ -28,7 +28,6 @@
 #  command "apt-get update"
 #end
 
-
 ruby_build_ruby node["ruby"]["build"]["version"] do
   prefix_path "/usr/local"
   action      :install
