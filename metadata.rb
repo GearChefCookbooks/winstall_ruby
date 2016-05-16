@@ -26,3 +26,4 @@ depends "chef_gem"
 #In Berksfile 
 depends "ruby_build"
 depends "rvm"
+depends 'iptables', '= 1.1.0'
